@@ -12,9 +12,9 @@ function App() {
           <Link to="/FoodShop">Food Shop</Link>
         </nav>
         <Routes>
-          <Route />
-          <Route />
-          <Route />
+          <Route path="/Menu" />
+          <Route path="/Search" />
+          <Route path="/FoodShop" />
         </Routes>
       </BrowserRouter>
     </div>

@@ -1,7 +1,7 @@
 {
   "name": "myfood",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "homepage": "https:/ThanhBinh0801.github.io/ghpagefood",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
